@@ -15,11 +15,11 @@ const header = () => {
 					<Typewriter
 						options={{
 							strings: [
-								"A FullStack Developer💻",
-								"I build things for the web🌐",
-								"Currrently learning MERN Stack💻",
+								"A FullStack Developer",
+								"I build things for the web",
+								"Currrently learning MERN Stack",
 								"I’m looking to collaborate for Dev Projects",
-								"Life Hack: Learn new tech 🔥 and share what you have learned 🎉",
+								"Life Hack: Learn new tech and share what you have learned :)",
 							],
 							autoStart: true,
 							loop: true,
